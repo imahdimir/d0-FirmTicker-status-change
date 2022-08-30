@@ -1,1 +1,1 @@
-> Status changes of each TSETMC_ID on TESTMC.com
+Status changes of each TSETMC_ID on TESTMC.com
